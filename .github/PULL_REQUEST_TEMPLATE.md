@@ -5,7 +5,7 @@
 
 
 
-- 제가 구현한 인스타그램
+- 제가 구현한 인스타그램; 피드 때문에 축소해서 캡쳐했으나 원래 크기대로면 아이콘이랑 비슷해용!
 <img width="1906" height="901" alt="image" src="https://github.com/user-attachments/assets/bf6ef5e0-7014-42e1-9331-06af9374e5cb" />
 
 
