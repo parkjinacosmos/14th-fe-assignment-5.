@@ -1,4 +1,4 @@
-<img width="1229" height="554" alt="image" src="https://github.com/user-attachments/assets/1683cdb5-9561-4abf-be40-851dcf4f20b0"
+<img width="1229" height="554" alt="image" src="https://github.com/user-attachments/assets/1683cdb5-9561-4abf-be40-851dcf4f20b0" />
 <img width="1906" height="901" alt="image" src="https://github.com/user-attachments/assets/bf6ef5e0-7014-42e1-9331-06af9374e5cb" />
 
 
@@ -36,7 +36,7 @@
 | <img width="274" height="205" alt="image" src="https://github.com/user-attachments/assets/a5f96c86-1f28-496b-94ed-39d9cda1c013" /> | <img width="294" height="323" alt="image" src="https://github.com/user-attachments/assets/0f625339-0e16-406f-b151-b4781acde1ea" /> |
 피드 구조 분석에서 좋아요와 댓글 컴포넌트가 누락되었지만... 완성본에서 구현했습니다! 이름은 Feed입니다... 오타예욥...ㅠ
 
-* **Rightbar**### 📊
+* **Rightbar**
 | 구조 분석 | 완성본 |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/867048b2-4dff-43ae-9f14-0c93ec0b6d2c" width="200" /> | <img src="https://github.com/user-attachments/assets/6367175a-97cc-4d18-bdae-5bbb9aa55796" width="200" /> |
