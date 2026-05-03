@@ -1,4 +1,6 @@
+- 실제 인스타그램
 <img width="1229" height="554" alt="image" src="https://github.com/user-attachments/assets/1683cdb5-9561-4abf-be40-851dcf4f20b0" />
+- 제가 구현한 인스타그램
 <img width="1906" height="901" alt="image" src="https://github.com/user-attachments/assets/bf6ef5e0-7014-42e1-9331-06af9374e5cb" />
 
 
